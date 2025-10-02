@@ -1,4 +1,5 @@
 import './App.scss';
+import './AppTitle.scss';
 
 import postsFromServer from './api/posts.json';
 import commentsFromServer from './api/comments.json';
